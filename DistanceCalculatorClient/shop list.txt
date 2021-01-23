@@ -1,0 +1,15 @@
+Barber, Arep Barber, 3.17285, 100.00787
+Barber, Onje Barber, 3.32405, 100.23010
+Barber, Aqiff Barber, 3.07602, 100.18907
+Groceries, Arep Groceries, 3.11528, 100.11105
+Groceries, Onje Groceries, 3.27234, 100.26452
+Groceries, Aqiff Groceries, 3.01596, 100.27053
+Laundry, Arep Laundry, 3.40388, 100.05079
+Laundry, Onje Laundry, 3.08382, 100.04770
+Laundry, Aqiff Laundry, 3.22218, 100.18765
+Restaurant, Arep Restaurant, 3.32447, 100.12667
+Restaurant, Onje Restaurant, 3.19278, 100.22903
+Restaurant, Aqiff Restaurant, 3.19479, 100.08615
+Workshop, Arep Workshop, 3.29636, 100.05113
+Workshop, Onje Workshop, 3.48351, 100.22933
+Workshop, Aqiff Workshop, 3.03484, 100.0707052
